@@ -1,0 +1,7 @@
+{
+	"STOCK":[
+				{"stockName" : "AIRTEL","numberOfShare" : 25,"sharePrice" : 120},
+				{"stockName" : "JIO","numberOfShare" : 21,"sharePrice" : 90},
+				{"stockName" : "VODAFONE","numberOfShare" : 17,"sharePrice" : 70}
+			]
+}

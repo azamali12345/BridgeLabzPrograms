@@ -1,0 +1,15 @@
+package org.bridgeLabz.objectOriented.commercialData;
+import java.util.List;
+/**
+ * 
+ * @author Azam Ali
+ *
+ */
+public interface StockInterface 
+{
+	public double valueOf();
+	public void buy(int amount, String symbol);
+	public void sell(int amount, String symbol);
+	public void save(String fileName, List<Customer> customerList);
+	public void printReport();
+}

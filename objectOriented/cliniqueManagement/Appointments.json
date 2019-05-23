@@ -1,0 +1,62 @@
+[ 
+	{
+  		"doctorName" : "AZAM ALI",
+  		"patientName" : "MANTU",
+  		"date" : "21/04/2019",
+  		"docAppointmentCount" : 1
+	}, 
+	{
+  		"doctorName" : "NAZIM",
+  		"patientName" : "SHARIF",
+  		"date" : "24/04/2019",
+  		"docAppointmentCount" : 1
+	}, 
+	{
+  		"doctorName" : "AZAM ALI",
+  		"patientName" : "KAMU",
+  		"date" : "24/04/2019",
+  		"docAppointmentCount" : 2
+	}, 
+	{
+  		"doctorName" : "AZAM ALI",
+  		"patientName" : "ADIL",
+  		"date" : "26/04/2019",
+  		"docAppointmentCount" : 3
+	}, 
+	{
+  		"doctorName" : "ARZAN",
+  		"patientName" : "RAHUL",
+  		"date" : "25/04/2019",
+  		"docAppointmentCount" : 1
+	}, 
+	{
+  		"doctorName" : "LUTFY",
+  		"patientName" : "RIYA",
+  		"date" : "25/04/2019",
+  		"docAppointmentCount" : 1
+	}, 
+	{
+  		"doctorName" : "IDRIS",
+  		"patientName" : "TAYYAB",
+  		"date" : "26/04/2019",
+  		"docAppointmentCount" : 1
+	},
+	{
+  		"doctorName" : "ALI",
+  		"patientName" : "ADIL",
+  		"date" : "27/04/2019",
+  		"docAppointmentCount" : 1
+	},
+	{
+  		"doctorName" : "ARZAN",
+  		"patientName" : "ASHRAF",
+  		"date" : "28/04/2019",
+  		"docAppointmentCount" : 2
+	},
+	{
+  		"doctorName" : "NAZIM",
+  		"patientName" : "LIYAQAT",
+  		"date" : "28/04/2019",
+  		"docAppointmentCount" : 2
+	}
+]

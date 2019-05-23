@@ -1,0 +1,38 @@
+[ 
+	{
+  		"name" : "AZAM",
+  		"airtelShares" : 50,
+  		"jioShares" : 40,
+  		"ideaShares" : 30
+	}, 
+	{
+  		"name" : "ALI",
+  		"airtelShares" : 30,
+  		"jioShares" : 50,
+  		"ideaShares" : 20
+	}, 
+	{
+  		"name" : "ARZAN",
+  		"airtelShares" : 60,
+  		"jioShares" : 70,
+  		"ideaShares" : 50
+	}, 
+	{
+  		"name" : "LUTFY",
+  		"airtelShares" : 50,
+  		"jioShares" : 60,
+  		"ideaShares" : 30
+	}, 
+	{
+  		"name" : "AHANA",
+  		"airtelShares" : 40,
+  		"jioShares" : 30,
+  		"ideaShares" : 50
+	},
+	{
+  		"name" : "AZMEEN",
+  		"airtelShares" : 20,
+  		"jioShares" : 30,
+  		"ideaShares" : 10
+	} 
+]

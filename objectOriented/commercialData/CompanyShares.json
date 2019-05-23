@@ -1,0 +1,23 @@
+[ 
+	{
+  		"companyName" : "AIRTEL",
+  		"stockSymbol" : "AIR",
+  		"noOfShares" : 560,
+  		"price" : 1600,
+  		"dateTime" : null
+	},
+	{
+  		"companyName" : "JIOINDIA",
+  		"stockSymbol" : "JI",
+  		"noOfShares" : 440,
+  		"price" : 1200,
+  		"dateTime" : null
+	}, 
+	{
+  		"companyName" : "IDEA",
+  		"stockSymbol" : "IA",
+  		"noOfShares" : 360,
+  		"price" : 800,
+  		"dateTime" : null
+	} 
+]

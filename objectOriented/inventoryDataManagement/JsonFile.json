@@ -1,0 +1,23 @@
+{
+		"RICE":[	
+					{"name":"BASMATI RICE...","price":60,"weight":30},
+					{"name":"INDIA GATE RICE...","price":90,"weight":25},
+					{"name":"BLACK RICE...","price":120,"weight":30},
+					{"name":"BROWN RICE...","price":80,"weight":25}
+			   ],
+	
+		"PULSES":[
+					{"name":"DRY BEANS...","price":60,"weight":30},
+					{"name":"FABA BEANS...","price":90,"weight":25},
+					{"name":"BAMBARA BEANS...","price":80,"weight":30},
+					{"name":"BLACK BEANS...","price":70,"weight":25}
+				 ],
+	
+		"WHEATS":[
+					{"name":"KHORASAN WHEATS...","price":80,"weight":30},
+					{"name":"SPELT WHEATS...","price":90,"weight":25},
+					{"name":"COMMON WHEATS...","price":40,"weight":30},
+					{"name":"EINKORN WHEATS...","price":60,"weight":25}
+				 ]
+
+}

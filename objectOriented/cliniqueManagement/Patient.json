@@ -1,0 +1,86 @@
+[ 
+	{
+  		"name" : "RAVI",
+  		"id" : 1,
+  		"mobNumber" : "9252745053",
+  		"age" : 32
+	}, 
+	{
+  		"name" : "NEERAJ",
+  		"id" : 2,
+  		"mobNumber" : "9799782717",
+  		"age" : 30
+	},
+	{
+  		"name" : "RAHUL",
+  		"id" : 3,
+  		"mobNumber" : "9536844715",
+  		"age" : 35
+	}, 
+	{
+  		"name" : "MANTU",
+  		"id" : 4,
+  		"mobNumber" : "7740839983",
+  		"age" : 36
+	}, 
+	{
+  		"name" : "YUNUS",
+  		"id" : 5,
+  		"mobNumber" : "9784461886",
+  		"age" : 45
+	}, 
+	{
+  		"name" : "LIYAQAT",
+  		"id" : 6,
+  		"mobNumber" : "9928126680",
+  		"age" : 48
+	}, 
+	{
+  		"name" : "KAMU",
+  		"id" : 7,
+  		"mobNumber" : "9928125640",
+  		"age" : 34
+	}, 
+	{
+  		"name" : "KIRAN",
+  		"id" : 8,
+  		"mobNumber" : "9928108629",
+  		"age" : 25
+	}, 
+	{
+  		"name" : "TAYYAB",
+  		"id" : 9,
+  		"mobNumber" : "9251756185",
+  		"age" : 47
+	}, 
+	{
+  		"name" : "ASHRAF",
+  		"id" : 10,
+  		"mobNumber" : "9784056182",
+  		"age" : 50
+	}, 
+	{
+  		"name" : "JABBAR",
+  		"id" : 11,
+  		"mobNumber" : "9829447489",
+  		"age" : 49
+	}, 
+	{
+  		"name" : "SHARIF",
+  		"id" : 12,
+  		"mobNumber" : "9829726445",
+  		"age" : 55
+	}, 
+	{
+  		"name" : "ADIL",
+  		"id" : 13,
+  		"mobNumber" : "9828734558",
+  		"age" : 39
+	},
+	{
+  		"name" : "RIYA",
+  		"id" : 14,
+  		"mobNumber" : "9828045632",
+  		"age" : 24
+	} 
+]

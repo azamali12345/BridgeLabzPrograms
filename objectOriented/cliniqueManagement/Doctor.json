@@ -1,0 +1,38 @@
+[ 
+	{
+  		"name" : "AZAM ALI",
+  		"id" : 1,
+  		"specialization" : "SR. PHYSICIAN",
+  		"avl" : "8AM"
+	}, 
+	{
+  		"name" : "ARZAN",
+  		"id" : 2,
+  		"specialization" : "DENTIST",
+  		"avl" : "10AM"
+	}, 
+	{
+  		"name" : "LUTFY",
+  		"id" : 3,
+  		"specialization" : "GYNOLOGIST",
+  		"avl" : "9AM"
+	},
+	{
+  		"name" : "ALI",
+  		"id" : 4,
+  		"specialization" : "CARDIOLOGIST",
+  		"avl" : "6PM"
+	},
+	{
+  		"name" : "NAZIM",
+  		"id" : 5,
+  		"specialization" : "CHILD SPECIALIST",
+  		"avl" : "7PM"
+	}, 
+	{
+  		"name" : "IDRIS",
+  		"id" : 6,
+  		"specialization" : "ORTHOLOGIST",
+  		"avl" : "5PM"
+	}
+]
